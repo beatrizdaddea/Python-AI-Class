@@ -39,6 +39,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 ## 📜 Licença  
 Este projeto está sob a licença **MIT**.  
 
----
 Feito com ❤️ por Beatriz Chieffi  
-```  
